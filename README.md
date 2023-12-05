@@ -19,7 +19,7 @@ The motivation behind this project is to:
 ### Installation
 1. Clone the repo:
 ```sh
-   git clone https://github.com/your-username/aoc-rust.git
+   git clone https://github.com/aoroudjev/aoc-rust.git
    ```
    
 2. Navigate to the directory of a specific day's challenge:
