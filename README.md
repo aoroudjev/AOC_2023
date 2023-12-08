@@ -18,7 +18,7 @@ The motivation behind this project is to:
 ### Installation
 1. Clone the repo:
 ```sh
-   git clone https://github.com/aoroudjev/aoc.git
+   git clone https://github.com/aoroudjev/AOC_2023.git
    ```
 
 ## Usage
