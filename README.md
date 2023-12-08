@@ -9,7 +9,6 @@ This repository contains solutions for the Advent of Code (AOC) challenges imple
 The motivation behind this project is to:
 - Enhance problem-solving skills.
 - Explore Rust's unique features like ownership, lifetimes, and concurrency.
-- Build a community of Rust enthusiasts and learners.
 
 ## Getting Started
 
@@ -19,21 +18,17 @@ The motivation behind this project is to:
 ### Installation
 1. Clone the repo:
 ```sh
-   git clone https://github.com/aoroudjev/aoc-rust.git
+   git clone https://github.com/aoroudjev/aoc.git
    ```
-   
-2. Navigate to the directory of a specific day's challenge:
-```shell
-cd day_01
-```
 
 ## Usage
-Each day's directory contains two main files: `main.rs` and `input.txt`. `main.rs` contains the solution code, and `input.txt` contains the puzzle input.
+Each day's solution is saved in its own `dayXX.rs` int he `bin` directory and input is in the `\input` directory as `dayXX.txt`. 
 
 To run a solution, use:
 ```shell
-cargo run --release
+cargo run --bin dayXX
 ```
+_Replace XX with the day of interest._
 
 ## License
 
